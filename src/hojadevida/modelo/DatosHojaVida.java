@@ -6,12 +6,12 @@ package hojadevida.modelo;
 public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
-    private String nombre = "Tu Nombre Completo";
-    private String titulo = "Estudiante de Estructura de Datos";
-    private String ciudad = "Ciudad, País";
-    private String telefono = "+57 XXX XXX XXXX";
-    private String email = "tu@email.com";
-    private String github = "github.com/tu-usuario";
+    private String nombre = "Ronny Farid Guevara Galvis";
+    private String titulo = "Tecnologo em desarrollo de software";
+    private String ciudad = "Popayan-Colombia";
+    private String telefono = "+57 311 817 4608";
+    private String email = "rguevara@unimayor.edu.co";
+    private String github = "github.com/rguevara-ship-it";
     private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
